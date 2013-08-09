@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"attrib",
+				"attributeValues"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"pred",
+				"predictTargetAttributeValue"
+			],
+			[
+				"pre",
+				"predictTargetAttributeValue"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"dec",
+				"DecisionNode"
+			],
+			[
+				"instan",
+				"instanceCount"
+			],
+			[
+				"insta",
+				"instanceCount"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"tar",
+				"targetAttributeValues"
+			],
+			[
+				"att",
+				"attributeIF"
+			],
+			[
+				"inst",
+				"instance"
+			],
+			[
+				"in",
+				"instances"
+			],
+			[
+				"calcu",
+				"calculateTargetFrequency"
+			],
+			[
+				"partion",
+				"partitions"
+			],
+			[
+				"new",
+				"newRemainders"
+			],
+			[
+				"de",
+				"decisionNode"
+			],
+			[
+				"calcul",
+				"calculateGain"
+			],
+			[
+				"g",
+				"globalEntropy"
+			],
+			[
+				"target",
+				"targetAttributeValues"
+			],
+			[
+				"calculate",
+				"calculateTargetFrequency"
+			],
+			[
+				"v",
+				"values"
+			],
+			[
+				"r",
+				"rawData"
+			],
+			[
+				"c",
+				"classCount"
+			],
+			[
+				"get",
+				"getclassCount"
+			],
+			[
+				"va",
+				"variance"
+			],
+			[
+				"dat",
+				"dataPointCount"
+			],
+			[
+				"da",
+				"dataPointCount"
+			],
+			[
+				"be",
+				"bestGlobalPosition"
+			],
+			[
+				"cu",
+				"currentParticle"
+			],
+			[
+				"random",
+				"randomPosition"
+			],
+			[
+				"ra",
+				"randomVelocity"
+			],
+			[
+				"ran",
+				"randomPosition"
+			],
+			[
+				"rn",
+				"randomPosition"
+			],
+			[
+				"m",
+				"maxX"
+			],
+			[
+				"min",
+				"minX"
+			],
+			[
+				"num",
+				"numberParticles"
+			],
+			[
+				"curr",
+				"currSum"
+			],
+			[
+				"cur",
+				"currExpected"
+			],
+			[
+				"train",
+				"trainData"
+			],
+			[
+				"ho",
+				"hoWeights"
+			],
+			[
+				"ih",
+				"ihOutputs"
+			],
+			[
+				"numIn",
+				"numInput"
+			],
+			[
+				"numHi",
+				"numHidden"
+			],
+			[
+				"numI",
+				"numImput"
+			],
+			[
+				"numOu",
+				"numOut"
+			],
+			[
+				"numO",
+				"numOutput"
+			],
+			[
+				"numH",
+				"numHidden"
+			],
+			[
+				"best",
+				"bestFitness"
+			],
+			[
+				"qua",
+				"quart"
+			],
+			[
+				"int",
+				"interpolated"
+			],
+			[
+				"lo",
+				"lowerQuartile"
+			],
+			[
+				"result",
+				"resultObject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "commonMath.js",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.js",
+			"settings":
+			{
+				"buffer_size": 1536,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/decisionTree.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/decisionNode.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/range.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/id3.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/Id3.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/linearRegression.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/quartile.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/static/script/app/model.query.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/bayesianClassifier.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/multipleRegression.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/neuralNetwork.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/api/models/mongoIndex.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/static/script/app/model.userProfile.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/test.js",
+		"/C/CoffeeScript/hello.coffee",
+		"/C/CoffeeScript/hello.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/particle.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/api/server.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/static/script/app/vm.queryEditor.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/api/controllers/queryController.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/columnVector.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/identityMatrix.js",
+		"/C/Users/scottjustin/Documents/GitHub/Numbers/matrix.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/static/script/app/model.CollectionQuery.js",
+		"/C/Users/scottjustin/Downloads/Kospa-master/Kospa-master/lib/kospa.js",
+		"/C/Users/scottjustin/Downloads/Kospa-master/Kospa-master/src/kospa.animations.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/node_modules/async/lib/async.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/node_modules/ejs-middleware/ejs-middleware.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/node_modules/async/package.json",
+		"/C/Users/scottjustin/Downloads/Kospa-master/Kospa-master/node_modules/sinon/lib/sinon.js",
+		"/C/Users/scottjustin/Downloads/Kospa-master/Kospa-master/node_modules/sinon/lib/sinon/stub.js",
+		"/C/Users/scottjustin/Downloads/Kospa-master/Kospa-master/tests.html",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/ps.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/index.html",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/server.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/styles/mainStyle.css",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/partials/shrineBuilder.html",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/guid.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/vm.shrineBuilder.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/binder.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/api/imageUploader.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/node_modules/imagemagick/imagemagick.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/api/server.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/api/logger.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/bootstrapper.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/datacontext.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/api/queryParser.js",
+		"/C/Users/scottjustin/Documents/GitHub/MongoManager/api/parsing/sqlParser.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/config.route.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/config.viewmodels.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/config.views.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/node_modules/ejs-middleware/ejs-middleware.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/router.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/static/script/app/main.js",
+		"/C/Users/scottjustin/Documents/GitHub/PetShrines/readme.txt",
+		"/C/apps/blog/app/views/post/show.html.erb",
+		"/C/apps/blog/config/routes.rb",
+		"/C/apps/blog/app/views/post/index.json.jbuilder",
+		"/C/apps/blog/app/views/post/edit.html.erb",
+		"/C/apps/blog/app/views/post/new.html.erb",
+		"/C/apps/blog/app/views/post/index.html.erb",
+		"/C/apps/blog/app/controllers/posts_controller.rb",
+		"/C/apps/blog/app/views/post/_form.html.erb",
+		"/C/apps/MyBlog/config/routes.rb",
+		"/C/apps/MyBlog/config/application.rb",
+		"/C/apps/MyBlog/app/views/blog_posts/new.html.erb",
+		"/C/apps/MyBlog/app/views/blog_posts/_form.html.erb",
+		"/C/apps/MyBlog/app/models/blog_post.rb",
+		"/C/apps/MyBlog/app/models/concerns/.keep",
+		"/C/apps/MyBlog/app/views/blog_posts/edit.html.erb",
+		"/C/apps/blog/app/views/post/show.json.jbuilder",
+		"/C/apps/MyBlog/app/views/blog_posts/show.json.jbuilder",
+		"/C/apps/MyBlog/app/views/blog_posts/show.html.erb",
+		"/C/apps/blog/Gemfile",
+		"/C/apps/blog/config/mongoid.yml",
+		"/C/apps/blog/app/controllers/post_controller.rb",
+		"/C/apps/MyBlog/app/controllers/blog_posts_controller.rb",
+		"/C/apps/MyBlog/app/views/blog_posts/index.html.erb",
+		"/C/apps/MyBlog/app/views/blog_posts/index.json.jbuilder",
+		"/C/apps/blog/app/models/post.rb",
+		"/C/apps/blog/blogapp/config/application.rb",
+		"/C/apps/blog/blogapp/Gemfile",
+		"/C/apps/MyBlog/Gemfile",
+		"/C/apps/MyBlog/lib/tasks/mongo.rake",
+		"/C/apps/MyBlog/config/initializers/mongo.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/mongo_mapper-0.12.0/lib/mongo_mapper/middleware/identity_map.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/mongo_mapper-0.12.0/lib/mongo_mapper/extensions/date.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/mongo_mapper-0.12.0/lib/mongo_mapper/translation.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/mongo_mapper-0.12.0/lib/mongo_mapper/document.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/mongo_mapper-0.12.0/lib/mongo_mapper.rb",
+		"/C/apps/MyBlog/Gemfile.lock",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-sqlserver-adapter-2.3.8/lib/active_record/connection_adapters/sqlserver_adapter.rb",
+		"/C/apps/MyBlog/config/database.yml",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-sqlserver-adapter-2.3.8/lib/active_record/connection_adapters/sqlserver_adapter/core_ext/active_record.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-sqlserver-adapter-3.2.10/lib/activerecord-sqlserver-adapter.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-sqlserver-adapter-3.2.10/lib/active_record/connection_adapters/sqlserver_adapter.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-sqlserver-adapter-2.3.8/lib/activerecord-sqlserver-adapter.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-sqlserver-adapter-2.3.8/test/migrations/transaction_table/1_table_will_never_be_created.rb",
+		"/C/apps/MyBlog/Rakefile",
+		"/C/apps/MyBlog/db/migrate/20130626174743_create_blog_posts.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"path",
+			"odbc",
+			"require_",
+			"require_library_or_gem",
+			"alias_method_chain",
+			"add_order",
+			"add_order!",
+			"add_order"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "commonMath.js",
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.js",
+					"settings":
+					{
+						"buffer_size": 1536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1536,
+								1536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.926555004611,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}
